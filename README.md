@@ -14,21 +14,15 @@ An AI-powered Python code debugging tool built with Streamlit that helps develop
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-powered-code-debugger.git
+git clone https://github.com/saicharan-02/ai-powered-code-debugger.git
 cd ai-powered-code-debugger
 ```
 
-2. Create and activate a virtual environment:
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. Install dependencies:
+2. Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-
+3. In the `.env` file in the root directory update your OpenAI API key.
 ## Usage
 
 1. Start the application:
